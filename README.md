@@ -7,7 +7,7 @@ I am a machine learning and deep learning practitioner and learner. Solving a pr
 I am currently working as a Computer Vision Engineer @ APRIL by Azista Industries; where I am responsible for developing machine learning or deep learning based algorithms to extract insights from satellite imagery.
 
 ### Updates:
-
-🌱 I’m currently learning Super Resolution.
-
-👯 I’m looking to collaborate on Data Science, Machine Learning and Deep Learning!
+  
+    🌱 I’m currently learning Super Resolution.
+    
+    👯 I’m looking to collaborate on Data Science, Machine Learning and Deep Learning!
