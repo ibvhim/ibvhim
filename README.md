@@ -2,10 +2,8 @@
 
 ### Hey👋, I'm Ibrahim A. Shukoor 💻
 
-I am a machine learning and deep learning practitioner and learner. Solving a problem and gaining insights with the help of machine learning algorithms has always seemed to be a superpower for me. I am here to solve things, Learning a lot in the process.
+I’m a Senior AI Engineer @ APRIL by Azista Industries, where I solve space‑tech problems using satellite imagery and space‑related data. I design ML/DL models and turn ideas into working prototypes and MVPs, mostly with AI at the core.
 
-I am working as a Computer Vision Engineer @ APRIL by Azista Industries; where I am responsible for developing machine learning or deep learning based algorithms to extract insights from satellite imagery.
-  
-    🌱 I’m currently learning Super Resolution.
-    
-    👯 I’m looking to collaborate on any Machine Learning and Deep Learning related projects!
+By day, I build and improve the company’s core AI‑driven products; by night, I work on my own projects and experiment with new ideas in machine learning and computer vision.
+
+    🌱 currently geeking out on agentic AI and frontend frameworks
